@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img align="left" src="/assets/images/thomas-smits.jpeg" style="padding: 15px; padding-left: 0px" width="100" height="100" alt='head shot of Thomas, a man with short blond hair and with blue background'>
+<img align="left" src="/assets/images/thomas-smits.jpeg" style="padding: 15px; padding-left: 0px" width="100" height="100" alt='head shot of Thomas, a man with short blond hair in green sweater in front of a window'>
 
 Hello! I am Thomas. I am an Associate in Biomedical Informatics at the [HiDIVE Lab](https://hidivelab.org) at Harvard Medical School. Previously, I've received a [Bachelor’s degree in Life Science & Technology](https://www.tudelft.nl/en/onderwijs/opleidingen/bachelors/lst/bsc-life-science-and-technology) and a [Master's degree in Biomedical Informatics](https://dbmi.hms.harvard.edu/education/masters-program). 
 
