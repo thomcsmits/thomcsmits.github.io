@@ -1,0 +1,127 @@
+---
+permalink: /journey.html
+title: Journey
+layout: default
+---
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+
+<h1>Journey</h1>
+<p>Hover over the different numbers to see my journey! A data table will soon be added.</p>
+<div id="vis"></div>
+
+<script type="text/javascript">
+    const data = [
+        {"Number": 1, "Place": "Delft & Leiden", "Country": "Netherlands", "Timespan": "2017 - 2020", "University": "Delft University of Technology & Leiden University", "Degree": "Bachelor of Science in Life Science & Technology", "latitude": 52.1601, "longitude": 4.4970},
+        {"Number": 2, "Place": "Vancouver", "Country": "Canada", "Timespan": "2019", "University": "University of British Columbia", "Degree": "Bachelor of Science Exchange", "latitude": 49.2827, "longitude": -123.1207},
+        {"Number": 3, "Place": "Delft", "Country": "Netherlands", "Timespan": "2020 - 2021", "University": "Delft University of Technology", "Degree": "Transfer Year in Computer Science", "latitude": 52.0116, "longitude": 4.3571},
+        {"Number": 4, "Place": "Boston", "Country": "United States", "Timespan": "2021 - 2023", "University": "Harvard Medical School", "Degree": "Master in Biomedical Informatics", "latitude": 42.3601, "longitude": -71.0589}
+    ];
+
+    const spec = {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "description": "A world map with markings for educational achievements.",
+        "width": 800,
+        "height": 400,
+        "projection": {
+            "type": "mercator",
+            "scale": 130,
+            "translate": [400, 250],
+            "clipExtent": [[0, 0], [800, 400]]
+        },
+        "layer": [
+            {
+                "data": {
+                    "url": "https://raw.githubusercontent.com/vega/vega-datasets/master/data/world-110m.json",
+                    "format": {
+                        "type": "topojson",
+                        "feature": "countries"
+                    }
+                },
+                "transform": [
+                    {
+                        "lookup": "id",
+                        "from": {
+                            "data": {
+                                "values": [
+                                    {"id": 528, "country": "Netherlands"},
+                                    {"id": 124, "country": "Canada"},
+                                    {"id": 840, "country": "United States"}
+                                ]
+                            },
+                            "key": "id",
+                            "fields": ["country"]
+                        }
+                    }
+                ],
+                "mark": {
+                    "type": "geoshape",
+                    "stroke": "white"
+                },
+                "encoding": {
+                    "color": {
+                        "condition": {
+                            "test": "datum.country === 'Netherlands' || datum.country === 'Canada' || datum.country === 'United States'",
+                            "value": "lightcoral" // Red color countries that have been visited
+                        },
+                        "value": "#e4eded" // Light color for all other countries
+                    }
+                }
+            },
+            {
+                "data": {
+                    "values": data
+                },
+                "mark": {
+                    "type": "circle",
+                    "size": 200,
+                    "fill": "white",
+                    "stroke": "black",
+                    "strokeWidth": 2
+                },
+                "encoding": {
+                    "longitude": {"field": "longitude", "type": "quantitative"},
+                    "latitude": {"field": "latitude", "type": "quantitative"}
+                }
+            },
+            {
+                "data": {
+                    "values": data
+                },
+                "mark": {
+                    "type": "text",
+                    "fontSize": 12,
+                    "align": "center",
+                    "baseline": "middle"
+                },
+                "encoding": {
+                    "longitude": {"field": "longitude", "type": "quantitative"},
+                    "latitude": {"field": "latitude", "type": "quantitative"},
+                    "text": {"field": "Number", "type": "nominal"},
+                    "tooltip": [
+                        {"field": "University", "type": "nominal", "title": "University"},
+                        {"field": "Timespan", "type": "nominal", "title": "Year"},
+                        {"field": "Degree", "type": "nominal", "title": "Degree"}
+                    ]
+                }
+            }
+        ]
+    };
+
+
+    vegaEmbed('#vis', spec);
+</script>
+
+</body>
+</html>
+
