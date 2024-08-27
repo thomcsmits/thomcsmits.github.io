@@ -19,6 +19,7 @@ layout: default
 <h1>Journey</h1>
 <p>Hover over the different numbers to see my journey! A data table will soon be added.</p>
 <div id="vis"></div>
+<!-- <div id="table"></div> -->
 
 <script type="text/javascript">
     const data = [
@@ -125,6 +126,21 @@ layout: default
 
 
     vegaEmbed('#vis', spec);
+
+    // const newTable = document.createElement("tableobj");
+    // newTable.innerHTML ="".concat(["<thead>", ...Object.keys(data[0]).map(k => "".concat(["<th>", k, "</th>"])), "</thead>"]);
+    // for(d of data){
+    //     const newRow = document.createElement("tr");
+    //     const tdNumber = document.createElement("td");
+    //     const tdPlace = document.createElement("td");
+    //     tdNumber.textContent = d.Number;
+    //     tdPlace.textContent = d.Place;    
+    //     newRow.appendChild(tdNumber);
+    //     newRow.appendChild(tdPlace);
+    //     newTable.appendChild(newRow);
+    // }
+    // const tableEl = document.getElementById('table');
+    // tableEl.appendChild(newTable);
 </script>
 
 </body>
