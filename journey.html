@@ -17,9 +17,9 @@ layout: default
 <body>
 
 <h1>Journey</h1>
-<p>Hover over the different numbers to see my journey! A data table will soon be added.</p>
+<p>Hover over the different numbers to see my journey!</p>
 <div id="vis"></div>
-<!-- <div id="table"></div> -->
+<div id="table"></div>
 
 <script type="text/javascript">
     const data = [
@@ -127,20 +127,54 @@ layout: default
 
     vegaEmbed('#vis', spec);
 
-    // const newTable = document.createElement("tableobj");
-    // newTable.innerHTML ="".concat(["<thead>", ...Object.keys(data[0]).map(k => "".concat(["<th>", k, "</th>"])), "</thead>"]);
-    // for(d of data){
-    //     const newRow = document.createElement("tr");
-    //     const tdNumber = document.createElement("td");
-    //     const tdPlace = document.createElement("td");
-    //     tdNumber.textContent = d.Number;
-    //     tdPlace.textContent = d.Place;    
-    //     newRow.appendChild(tdNumber);
-    //     newRow.appendChild(tdPlace);
-    //     newTable.appendChild(newRow);
-    // }
-    // const tableEl = document.getElementById('table');
-    // tableEl.appendChild(newTable);
+    // add table
+    function generateTable(data) {
+        // table
+        const table = document.createElement('table');
+        table.style.borderCollapse = 'collapse';
+        table.style.width = '100%';
+        table.style.marginTop = '20px';
+
+        // header
+        const thead = document.createElement('thead');
+        const headerRow = document.createElement('tr');
+
+        Object.keys(data[0]).forEach(key => {
+            const th = document.createElement('th');
+            th.textContent = key;
+            th.style.border = '1px solid #ddd';
+            th.style.padding = '8px';
+            th.style.backgroundColor = '#f2f2f2';
+            th.style.textAlign = 'left';
+            headerRow.appendChild(th);
+        });
+
+        thead.appendChild(headerRow);
+        table.appendChild(thead);
+
+        // body
+        const tbody = document.createElement('tbody');
+
+        data.forEach(item => {
+            const row = document.createElement('tr');
+
+            Object.values(item).forEach(value => {
+                const td = document.createElement('td');
+                td.textContent = value;
+                td.style.border = '1px solid #ddd';
+                td.style.padding = '8px';
+                row.appendChild(td);
+            });
+
+            tbody.appendChild(row);
+        });
+
+        table.appendChild(tbody);
+
+        document.getElementById('table').appendChild(table);
+    }
+    generateTable(data);
+
 </script>
 
 </body>
