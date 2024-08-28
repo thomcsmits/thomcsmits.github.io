@@ -128,7 +128,12 @@ layout: default
     vegaEmbed('#vis', spec);
 
     // add table
-    function generateTable(data) {
+    function generateTable(dataFull) {
+
+        const data = dataFull.map(({longitude, latitude, ...rest}) => {
+            return rest;
+        });
+
         // table
         const table = document.createElement('table');
         table.style.borderCollapse = 'collapse';
