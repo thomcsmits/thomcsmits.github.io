@@ -2,6 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
+order: 2
 ---
 
 My resume can be downloaded [here](/assets/resume/resume.pdf)

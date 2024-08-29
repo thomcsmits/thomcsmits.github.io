@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /publications/
+order: 0
 ---
 
 ## Publications
