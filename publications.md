@@ -6,13 +6,15 @@ order: 0
 ---
 
 ## Publications
-- <b>Thomas C Smits</b>, Sehi L’Yi, Andrew P Mar, Nils Gehlenborg (2024). _AltGosling: Automatic Generation of Text Descriptions for Accessible Genomics Data Visualization._ [https://doi.org/10.31219/osf.io/26jvr](https://doi.org/10.31219/osf.io/26jvr) (in revision at Bioinformatics)
+- <b>Thomas C Smits</b>, Sehi L’Yi, Andrew P Mar, Nils Gehlenborg (2024). AltGosling: Automatic Generation of Text Descriptions for Accessible Genomics Data Visualization, _Bioinformatics 40_(12), btae670. [10.1109/AccessViz64636.2024.00010](https://doi.org/10.1109/AccessViz64636.2024.00010) 
 
-- <b>Thomas C Smits</b>, Sehi L’Yi, Huyen N Nguyen, Andrew P Mar, Nils Gehlenborg (2024). _Explaining Unfamiliar Genomics Data Visualizations to a Blind Individual through Transitions._ [https://osf.io/preprints/osf/v7mxz](https://osf.io/preprints/osf/v7mxz) (accepted to IEEE VIS 2024 AccessViz Workshop)
+- <b>Thomas C Smits</b>, Sehi L’Yi, Huyen N Nguyen, Andrew P Mar, Nils Gehlenborg (2024). Explaining Unfamiliar Genomics Data Visualizations to a Blind Individual through Transitions, _IEEE 2024 1st Workshop on Accessible Data Visualization (AccessViz)_, St Pete Beach, FL, USA, 2024, pp. 24-28, doi: 10.1109/AccessViz64636.2024.00010. [10.1109/AccessViz64636.2024.00010](https://doi.org/10.1109/AccessViz64636.2024.00010)
 
-- Lawrence Weru, Sehi L’Yi, <b>Thomas C Smits</b>, Nils Gehlenborg (2024). _Using OpenKeyNav to Enhance the Keyboard-Accessibility of Web-based Data Visualization Tools._ [https://osf.io/preprints/osf/3wjsa](https://osf.io/preprints/osf/3wjsa) (accepted to IEEE VIS 2024 AccessViz Workshop)
+- Lawrence Weru, Sehi L’Yi, <b>Thomas C Smits</b>, Nils Gehlenborg (2024). _Using OpenKeyNav to Enhance the Keyboard-Accessibility of Web-based Data Visualization Tools._ (presented at IEEE VIS 2024 AccessViz Workshop) [10.31219/osf.io/3wjsa](https://doi.org/10.31219/osf.io/3wjsa)
 
-- Sehi L’Yi, <b>Thomas C Smits</b>, Alexander Lex, Nils Gehlenborg (2023). _Digital Accessibility of Life Science Data Portals and Journal Websites._ OSF Preprints. [https://doi.org/10.31219/osf.io/5v98j](https://doi.org/10.31219/osf.io/5v98j)
+- Sehi L’Yi, <b>Thomas C Smits</b>, Alexander Lex, Nils Gehlenborg (2023). _Digital Accessibility of Life Science Data Portals and Journal Websites._ OSF Preprints. [10.31219/osf.io/5v98j](https://doi.org/10.31219/osf.io/5v98j)
+
+- Sanjay Jain, Liming Pei, Jeffrey M. Spraggins, et al. Advances and prospects for the Human BioMolecular Atlas Program (HuBMAP). _Nature Cell Biology 25_, 1089–1100 (2023). [10.1038/s41556-023-01194-w](https://doi.org/10.1038/s41556-023-01194-w)
 
 ## Conference presentations
 ### Oral presentations
