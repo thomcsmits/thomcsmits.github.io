@@ -7,7 +7,7 @@ order: 0
 
 ## Publications
 ### 2025
-- Mark S Keller, Eric Moerth, <b>Thomas C Smits<b>, Simon Warchol, Qianwen Wang, Robert Krueger, Hanspeter Pfister, Nils Gehlenborg (2025). The State of Single-Cell Atlas Data Visualization in the Biological Literature _(under review at EuroVis 2025)_. [10.31219/osf.io/yt3xz_v1](https://doi.org/10.31219/osf.io/yt3xz_v1)
+- Mark S Keller, Eric Moerth, <b>Thomas C Smits</b>, Simon Warchol, Qianwen Wang, Robert Krueger, Hanspeter Pfister, Nils Gehlenborg (2025). The State of Single-Cell Atlas Data Visualization in the Biological Literature _(under review at EuroVis 2025)_. [10.31219/osf.io/yt3xz_v1](https://doi.org/10.31219/osf.io/yt3xz_v1)
 
 ### 2024
 - <b>Thomas C Smits</b>, Sehi L’Yi, Andrew P Mar, Nils Gehlenborg (2024). AltGosling: Automatic Generation of Text Descriptions for Accessible Genomics Data Visualization, _Bioinformatics 40_(12), btae670. [10.1093/bioinformatics/btae670](https://doi.org/10.1093/bioinformatics/btae670) 
