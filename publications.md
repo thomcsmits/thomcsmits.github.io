@@ -6,12 +6,15 @@ order: 0
 ---
 
 ## Publications
+### 2025
+- Mark S Keller, Eric Moerth, <b>Thomas C Smits<b>, Simon Warchol, Qianwen Wang, Robert Krueger, Hanspeter Pfister, Nils Gehlenborg (2025). The State of Single-Cell Atlas Data Visualization in the Biological Literature _(under review at EuroVis 2025)_. [10.31219/osf.io/yt3xz_v1](https://doi.org/10.31219/osf.io/yt3xz_v1)
+
 ### 2024
 - <b>Thomas C Smits</b>, Sehi L’Yi, Andrew P Mar, Nils Gehlenborg (2024). AltGosling: Automatic Generation of Text Descriptions for Accessible Genomics Data Visualization, _Bioinformatics 40_(12), btae670. [10.1093/bioinformatics/btae670](https://doi.org/10.1093/bioinformatics/btae670) 
 
-- <b>Thomas C Smits</b>, Sehi L’Yi, Huyen N Nguyen, Andrew P Mar, Nils Gehlenborg (2024). Explaining Unfamiliar Genomics Data Visualizations to a Blind Individual through Transitions, _IEEE 2024 1st Workshop on Accessible Data Visualization (AccessViz)_, St Pete Beach, FL, USA, 2024, pp. 24-28, doi: 10.1109/AccessViz64636.2024.00010. [10.1109/AccessViz64636.2024.00010](https://doi.org/10.1109/AccessViz64636.2024.00010)
+- <b>Thomas C Smits</b>, Sehi L’Yi, Huyen N Nguyen, Andrew P Mar, Nils Gehlenborg (2024). Explaining Unfamiliar Genomics Data Visualizations to a Blind Individual through Transitions, _IEEE 2024 1st Workshop on Accessible Data Visualization (AccessViz)_, St Pete Beach, FL, USA, 2024, pp. 24-28, [10.1109/AccessViz64636.2024.00010](https://doi.org/10.1109/AccessViz64636.2024.00010)
 
-- Lawrence Weru, Sehi L’Yi, <b>Thomas C Smits</b>, Nils Gehlenborg (2024). _Using OpenKeyNav to Enhance the Keyboard-Accessibility of Web-based Data Visualization Tools._ (presented at IEEE VIS 2024 AccessViz Workshop) [10.31219/osf.io/3wjsa](https://doi.org/10.31219/osf.io/3wjsa)
+- Lawrence Weru, Sehi L’Yi, <b>Thomas C Smits</b>, Nils Gehlenborg (2024). Using OpenKeyNav to Enhance the Keyboard-Accessibility of Web-based Data Visualization Tools (presented at _IEEE VIS 2024 AccessViz Workshop_). [10.31219/osf.io/3wjsa](https://doi.org/10.31219/osf.io/3wjsa)
 
 ### 2023
 - Sanjay Jain, Liming Pei, Jeffrey M. Spraggins, et al. Advances and prospects for the Human BioMolecular Atlas Program (HuBMAP). _Nature Cell Biology 25_, 1089–1100 (2023). [10.1038/s41556-023-01194-w](https://doi.org/10.1038/s41556-023-01194-w)
