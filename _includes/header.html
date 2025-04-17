@@ -1,4 +1,14 @@
-<a href="#main-content">Skip to main content</a> 
+<a href="#main-content" class="skip-link">Skip to main content
+  <span class="tooltip">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+      <circle cx="8" cy="8" r="7" stroke="black" stroke-width="1" fill="white"/>
+      <text x="50%" y="50%" text-anchor="middle" dy=".35em" font-size="10" fill="black">?</text>
+    </svg>
+    <span class="tooltip-text">
+      This link improves accessibility by allowing keyboard users to skip repetitive navigation.
+    </span>
+  </span>
+</a> 
 
 <header class="site-header">
 
@@ -31,3 +41,41 @@
       {%- endif -%}
     </div>
   </header>
+
+
+
+<style>
+  .skip-link {
+    margin-right: 5px;
+  }
+
+  .tooltip {
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+  }
+
+  .tooltip-text {
+    visibility: hidden;
+    width: 200px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    position: absolute;
+    bottom: -75px;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: opacity 0.3s;
+    font-size: 12px;
+    white-space: normal;
+    z-index: 1;
+  }
+
+  .tooltip:hover .tooltip-text {
+    visibility: visible;
+    opacity: 1;
+  }
+</style>
