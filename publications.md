@@ -21,7 +21,7 @@ order: 0
 ### 2023
 - Sanjay Jain, Liming Pei, Jeffrey M. Spraggins, et al. Advances and prospects for the Human BioMolecular Atlas Program (HuBMAP). _Nature Cell Biology 25_, 1089–1100 (2023). [10.1038/s41556-023-01194-w](https://doi.org/10.1038/s41556-023-01194-w)
 
-- Sehi L’Yi, <b>Thomas C Smits</b>, Alexander Lex, Nils Gehlenborg (2023). _Digital Accessibility of Life Science Data Portals and Journal Websites._ OSF Preprints. [10.31219/osf.io/5v98j](https://doi.org/10.31219/osf.io/5v98j)
+- Sehi L’Yi, Harrison G Zhang, Andrew P Mar <b>Thomas C Smits</b>, Lawrence Weru, Sofía Rojas, Alexander Lex, Nils Gehlenborg (2023). A comprehensive evaluation of life sciences data resources reveals significant accessibility barriers _(under review at Nature Scientific Reports)_. [10.31219/osf.io/5v98j](https://doi.org/10.31219/osf.io/5v98j)
 
 ### 2022
 - <b>Thomas Smits</b>, Anil Aktas Samur, Romain Lannes, Mariateresa Fulciniti, Masood Shammas, Jill Corre, Kenneth Anderson, Giovanni Parmigiani, Hervé Avet-Loiseau, Nikhil Munshi, Mehmet Samur (2022, December). _Somatic Changes Prior to the Development of Hyperdiploidy Expose Mutation Accumulation Rate and Activated Processes in Multiple Myeloma._ 64th ASH Annual Meeting and Exposition, New Orleans, LA. [10.1182/blood-2022-168837](https://doi.org/10.1182/blood-2022-168837)
