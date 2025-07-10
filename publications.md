@@ -7,9 +7,11 @@ order: 0
 
 ## Publications
 ### 2025
-- Huyen N Nguyen, Sehi L'Yi, <b>Thomas C Smits</b>, Shanghua Gao, Marinka Zitnik, Nils Gehlenborg (2025). Multimodal Retrieval of Genomics Data Visualizations _(under review at IEEE VIS 2025)_. [10.31219/osf.io/zatw9_v1](https://doi.org/10.31219/osf.io/zatw9_v1)
+- Sehi L’Yi, Harrison G Zhang, Andrew P Mar <b>Thomas C Smits</b>, Lawrence Weru, Sofía Rojas, Alexander Lex, Nils Gehlenborg (2023). A comprehensive evaluation of life sciences data resources reveals significant accessibility barriers. _Scientific Reports_, 15, 23676. [10.1038/s41598-025-08731-7](https://doi.org/10.1038/s41598-025-08731-7)
 
-- Mark S Keller, Eric Moerth, <b>Thomas C Smits</b>, Simon Warchol, Qianwen Wang, Robert Krueger, Hanspeter Pfister, Nils Gehlenborg (2025). The State of Single-Cell Atlas Data Visualization in the Biological Literature _(under review at IEEE CG&A)_. [10.31219/osf.io/yt3xz_v1](https://doi.org/10.31219/osf.io/yt3xz_v1)
+- Huyen N Nguyen, Sehi L'Yi, <b>Thomas C Smits</b>, Shanghua Gao, Marinka Zitnik, Nils Gehlenborg (2025). Multimodal Retrieval of Genomics Data Visualizations _(under review)_. [10.31219/osf.io/zatw9_v1](https://doi.org/10.31219/osf.io/zatw9_v1)
+
+- Mark S Keller, Eric Moerth, <b>Thomas C Smits</b>, Simon Warchol, Qianwen Wang, Robert Krueger, Hanspeter Pfister, Nils Gehlenborg (2025). The State of Single-Cell Atlas Data Visualization in the Biological Literature. _IEEE computer graphics and applications, PP_, Advance online publication. [10.1109/MCG.2025.3583979](https://doi.org/10.1109/MCG.2025.3583979)
 
 ### 2024
 - <b>Thomas C Smits</b>, Sehi L’Yi, Andrew P Mar, Nils Gehlenborg (2024). AltGosling: Automatic Generation of Text Descriptions for Accessible Genomics Data Visualization, _Bioinformatics 40_(12), btae670. [10.1093/bioinformatics/btae670](https://doi.org/10.1093/bioinformatics/btae670) 
@@ -21,7 +23,7 @@ order: 0
 ### 2023
 - Sanjay Jain, Liming Pei, Jeffrey M. Spraggins, et al. Advances and prospects for the Human BioMolecular Atlas Program (HuBMAP). _Nature Cell Biology 25_, 1089–1100 (2023). [10.1038/s41556-023-01194-w](https://doi.org/10.1038/s41556-023-01194-w)
 
-- Sehi L’Yi, Harrison G Zhang, Andrew P Mar <b>Thomas C Smits</b>, Lawrence Weru, Sofía Rojas, Alexander Lex, Nils Gehlenborg (2023). A comprehensive evaluation of life sciences data resources reveals significant accessibility barriers _(under review at Nature Scientific Reports)_. [10.31219/osf.io/5v98j](https://doi.org/10.31219/osf.io/5v98j)
+- Sehi L’Yi, <b>Thomas C Smits</b>, Alexander Lex, Nils Gehlenborg (2023). _Digital Accessibility of Life Science Data Portals and Journal Websites._ OSF Preprints. [10.31219/osf.io/5v98j](https://doi.org/10.31219/osf.io/5v98j)
 
 ### 2022
 - <b>Thomas Smits</b>, Anil Aktas Samur, Romain Lannes, Mariateresa Fulciniti, Masood Shammas, Jill Corre, Kenneth Anderson, Giovanni Parmigiani, Hervé Avet-Loiseau, Nikhil Munshi, Mehmet Samur (2022, December). _Somatic Changes Prior to the Development of Hyperdiploidy Expose Mutation Accumulation Rate and Activated Processes in Multiple Myeloma._ 64th ASH Annual Meeting and Exposition, New Orleans, LA. [10.1182/blood-2022-168837](https://doi.org/10.1182/blood-2022-168837)
