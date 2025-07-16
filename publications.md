@@ -7,7 +7,7 @@ order: 0
 
 ## Publications
 ### 2025
-- Sehi L’Yi, Harrison G Zhang, Andrew P Mar <b>Thomas C Smits</b>, Lawrence Weru, Sofía Rojas, Alexander Lex, Nils Gehlenborg (2023). A comprehensive evaluation of life sciences data resources reveals significant accessibility barriers. _Scientific Reports_, 15, 23676. [10.1038/s41598-025-08731-7](https://doi.org/10.1038/s41598-025-08731-7)
+- Sehi L’Yi, Harrison G Zhang, Andrew P Mar <b>Thomas C Smits</b>, Lawrence Weru, Sofía Rojas, Alexander Lex, Nils Gehlenborg (2025). A comprehensive evaluation of life sciences data resources reveals significant accessibility barriers. _Scientific Reports_, 15, 23676. [10.1038/s41598-025-08731-7](https://doi.org/10.1038/s41598-025-08731-7)
 
 - Huyen N Nguyen, Sehi L'Yi, <b>Thomas C Smits</b>, Shanghua Gao, Marinka Zitnik, Nils Gehlenborg (2025). Multimodal Retrieval of Genomics Data Visualizations _(under review)_. [10.31219/osf.io/zatw9_v1](https://doi.org/10.31219/osf.io/zatw9_v1)
 
