@@ -7,7 +7,12 @@ order: 0
 
 ## Publications
 ### 2025
-- <b>Thomas C Smits</b>, Lawrence Weru, Sehi L'Yi, Nils Gehlenborg (2025). Ten Simple Rules for Making Biomedical Data Resources Accessible. OSF Preprints. [10.31219/osf.io/gqy8k_v1](https://doi.org/10.31219/osf.io/gqy8k_v1)
+- <b>Thomas C Smits</b>, Nikolay Akhmetov, Tiffany S. Liaw, Mark S. Keller, Eric Moerth, Nils Gehlenborg (2025). _scellop_: A Scalable Redesign of Cell Population Plots for Single-Cell Data _(under review)_. arXiv. [10.48550/arXiv.2510.09554](https://doi.org/10.48550/arXiv.2510.09554)
+
+- Skylar Sargent Walters, Arthea Valderrama, <b>Thomas C Smits</b>, David Kouřil, Huyen N. Nguyen, Sehi L'Yi, Devin Lange, Nils Gehlenborg (2025). GQVis: A Dataset of Genomics Data Questions and Visualizations for Generative AI _(accepted at IEEE VIS 2025 VISxGenAI Workshop)_. arXiv. [10.48550/arXiv.2510.13816](
+https://doi.org/10.48550/arXiv.2510.13816)
+
+- <b>Thomas C Smits</b>, Lawrence Weru, Sehi L'Yi, Nils Gehlenborg (2025). Ten Simple Rules for Making Biomedical Data Resources Accessible _(under review)_. OSF Preprints. [10.31219/osf.io/gqy8k_v1](https://doi.org/10.31219/osf.io/gqy8k_v1)
 
 - Sehi L’Yi, Harrison G Zhang, Andrew P Mar <b>Thomas C Smits</b>, Lawrence Weru, Sofía Rojas, Alexander Lex, Nils Gehlenborg (2025). A comprehensive evaluation of life sciences data resources reveals significant accessibility barriers. _Scientific Reports_, 15, 23676. [10.1038/s41598-025-08731-7](https://doi.org/10.1038/s41598-025-08731-7)
 
