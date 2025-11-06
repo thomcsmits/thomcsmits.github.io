@@ -9,17 +9,16 @@ order: 0
 ### 2025
 - <b>Thomas C Smits</b>, Nikolay Akhmetov, Tiffany S. Liaw, Mark S. Keller, Eric Moerth, Nils Gehlenborg (2025). _scellop_: A Scalable Redesign of Cell Population Plots for Single-Cell Data _(under review)_. arXiv. [10.48550/arXiv.2510.09554](https://doi.org/10.48550/arXiv.2510.09554)
 
-- Skylar Sargent Walters, Arthea Valderrama, <b>Thomas C Smits</b>, David Kouřil, Huyen N. Nguyen, Sehi L'Yi, Devin Lange, Nils Gehlenborg (2025). GQVis: A Dataset of Genomics Data Questions and Visualizations for Generative AI _(accepted at IEEE VIS 2025 VISxGenAI Workshop)_. arXiv. [10.48550/arXiv.2510.13816](
+- Skylar Sargent Walters, Arthea Valderrama, <b>Thomas C Smits</b>, David Kouřil, Huyen N. Nguyen, Sehi L'Yi, Devin Lange, Nils Gehlenborg (2025). GQVis: A Dataset of Genomics Data Questions and Visualizations for Generative AI._IEEE 2025 1st Workshop on GenAI, Agents, and the Future of VIS (VIS x GenAI)_. [10.48550/arXiv.2510.13816](
 https://doi.org/10.48550/arXiv.2510.13816)
 
-- <b>Thomas C Smits</b>, Lawrence Weru, Sehi L'Yi, Nils Gehlenborg (2025). Ten Simple Rules for Making Biomedical Data Resources Accessible. PLoS Computational Biology 21(11): e1013657. [10.1371/journal.pcbi.1013657](https://doi.
-org/10.1371/journal.pcbi.1013657)
+- <b>Thomas C Smits</b>, Lawrence Weru, Sehi L'Yi, Nils Gehlenborg (2025). Ten Simple Rules for Making Biomedical Data Resources Accessible. _PLoS Computational Biology 21_(11): e1013657. [10.1371/journal.pcbi.1013657](https://doi.org/10.1371/journal.pcbi.1013657)
 
 - Sehi L’Yi, Harrison G Zhang, Andrew P Mar <b>Thomas C Smits</b>, Lawrence Weru, Sofía Rojas, Alexander Lex, Nils Gehlenborg (2025). A comprehensive evaluation of life sciences data resources reveals significant accessibility barriers. _Scientific Reports_, 15, 23676. [10.1038/s41598-025-08731-7](https://doi.org/10.1038/s41598-025-08731-7)
 
 - Huyen N Nguyen, Sehi L'Yi, <b>Thomas C Smits</b>, Shanghua Gao, Marinka Zitnik, Nils Gehlenborg (2025). Multimodal Retrieval of Genomics Data Visualizations _(under review)_. [10.31219/osf.io/zatw9_v1](https://doi.org/10.31219/osf.io/zatw9_v1)
 
-- Mark S Keller, Eric Moerth, <b>Thomas C Smits</b>, Simon Warchol, Qianwen Wang, Robert Krueger, Hanspeter Pfister, Nils Gehlenborg (2025). The State of Single-Cell Atlas Data Visualization in the Biological Literature. _IEEE computer graphics and applications, PP_, Advance online publication. [10.1109/MCG.2025.3583979](https://doi.org/10.1109/MCG.2025.3583979)
+- Mark S Keller, Eric Moerth, <b>Thomas C Smits</b>, Simon Warchol, Qianwen Wang, Robert Krueger, Hanspeter Pfister, Nils Gehlenborg (2025). The State of Single-Cell Atlas Data Visualization in the Biological Literature. _IEEE computer graphics and applications, 45_(5), 18-34. [10.1109/MCG.2025.3583979](https://doi.org/10.1109/MCG.2025.3583979)
 
 ### 2024
 - <b>Thomas C Smits</b>, Sehi L’Yi, Andrew P Mar, Nils Gehlenborg (2024). AltGosling: Automatic Generation of Text Descriptions for Accessible Genomics Data Visualization, _Bioinformatics 40_(12), btae670. [10.1093/bioinformatics/btae670](https://doi.org/10.1093/bioinformatics/btae670) 
