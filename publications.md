@@ -12,7 +12,8 @@ order: 0
 - Skylar Sargent Walters, Arthea Valderrama, <b>Thomas C Smits</b>, David Kouřil, Huyen N. Nguyen, Sehi L'Yi, Devin Lange, Nils Gehlenborg (2025). GQVis: A Dataset of Genomics Data Questions and Visualizations for Generative AI _(accepted at IEEE VIS 2025 VISxGenAI Workshop)_. arXiv. [10.48550/arXiv.2510.13816](
 https://doi.org/10.48550/arXiv.2510.13816)
 
-- <b>Thomas C Smits</b>, Lawrence Weru, Sehi L'Yi, Nils Gehlenborg (2025). Ten Simple Rules for Making Biomedical Data Resources Accessible _(accepted at PLOS Computational Biology)_. OSF Preprints. [10.31219/osf.io/gqy8k_v1](https://doi.org/10.31219/osf.io/gqy8k_v1)
+- <b>Thomas C Smits</b>, Lawrence Weru, Sehi L'Yi, Nils Gehlenborg (2025). Ten Simple Rules for Making Biomedical Data Resources Accessible. PLoS Computational Biology 21(11): e1013657. [10.1371/journal.pcbi.1013657](https://doi.
+org/10.1371/journal.pcbi.1013657)
 
 - Sehi L’Yi, Harrison G Zhang, Andrew P Mar <b>Thomas C Smits</b>, Lawrence Weru, Sofía Rojas, Alexander Lex, Nils Gehlenborg (2025). A comprehensive evaluation of life sciences data resources reveals significant accessibility barriers. _Scientific Reports_, 15, 23676. [10.1038/s41598-025-08731-7](https://doi.org/10.1038/s41598-025-08731-7)
 
