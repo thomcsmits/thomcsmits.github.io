@@ -9,6 +9,8 @@ order: 0
 ### 2025
 - <b>Thomas C Smits</b>, Nikolay Akhmetov, Tiffany S. Liaw, Mark S. Keller, Eric Moerth, Nils Gehlenborg (2025). _scellop_: A Scalable Redesign of Cell Population Plots for Single-Cell Data _(under review)_. arXiv. [10.48550/arXiv.2510.09554](https://doi.org/10.48550/arXiv.2510.09554)
 
+- Morgan L. Turner, <b>Thomas C. Smits</b>, Tiffany S. Liaw, Brendan Honick, Bill Shirey, Lisa Choy, Nikolay Akhmetov, Shaokun An, David Betancur, Dominic Bordelon, Karl Burke, Ivan Cao-Berg, John Conroy, Chris Csonka, Penny Cuda, Sean Donahue, Stephen Fisher, Derek Furst, Ed Hanna, Josef Hardi, Tabassum Kakar, Mark S. Keller, Xiang Li, Yan Ma, Allison McWilliams, Austen Money, Richard Morgan, Eric Moerth, Juan Muerto, Mark A. Musen, Emily Nic, Martin J. O'Connor, Gesina Phillips, Alex Ropelewski, Ryan Sablosky, Sravani Saripalli, Max Sibilla, Derek Simmel, Alan Simmons, Xu Tang, Joel Welling, Zhou Yuan, Martin Hemberg, Matt Ruffalo, Jonathan Silverstein, Philip Blood, Nils Gehlenborg. HuBMAP Data Portal: A Resource for Multi-Modal Spatial and Single-Cell Data of Healthy Human Tissues _(under review)_. arXiv. [10.48550/arXiv.2511.05708](https://doi.org/10.48550/arXiv.2511.05708)
+
 - Skylar Sargent Walters, Arthea Valderrama, <b>Thomas C Smits</b>, David Kouřil, Huyen N. Nguyen, Sehi L'Yi, Devin Lange, Nils Gehlenborg (2025). GQVis: A Dataset of Genomics Data Questions and Visualizations for Generative AI._IEEE 2025 1st Workshop on GenAI, Agents, and the Future of VIS (VIS x GenAI)_. [10.48550/arXiv.2510.13816](
 https://doi.org/10.48550/arXiv.2510.13816)
 
