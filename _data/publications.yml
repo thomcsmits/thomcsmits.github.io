@@ -1,0 +1,178 @@
+- title: "_scellop_: A Scalable Redesign of Cell Population Plots for Single-Cell Data"
+  year: 2025
+  citation: "<b>Thomas C Smits</b>, Nikolay Akhmetov, Tiffany S Liaw, Mark S Keller, Eric Moerth, Nils Gehlenborg (2025). _scellop_: A Scalable Redesign of Cell Population Plots for Single-Cell Data _(under review)_. arXiv. [10.48550/arXiv.2510.09554](https://doi.org/10.48550/arXiv.2510.09554)"
+  image: smits-2025-scellop
+  image_alt:
+    Three panels (A-C) with cell population plots. A) Heatmap with bar charts on the top and left and colored legends on
+    the right and bottom. B) Same heatmap as A, but two rows are now bar charts. C) Stacked bar chart with colors for
+    cell types.
+  awards: []
+
+- title: "HuBMAP Data Portal: A Resource for Multi-Modal Spatial and Single-Cell Data of Healthy Human Tissues"
+  year: 2025
+  citation: "Morgan L Turner, <b>Thomas C Smits</b>, Tiffany S Liaw, Brendan Honick, Bill Shirey, Lisa Choy, Nikolay Akhmetov, Shaokun An, David Betancur, Dominic Bordelon, Karl Burke, Ivan Cao-Berg, John Conroy, Chris Csonka, Penny Cuda, Sean Donahue, Stephen Fisher, Derek Furst, Ed Hanna, Josef Hardi, Tabassum Kakar, Mark S Keller, Xiang Li, Yan Ma, Allison McWilliams, Austen Money, Richard Morgan, Eric Moerth, Juan Muerto, Mark A Musen, Emily Nic, Martin J O'Connor, Gesina Phillips, Alex Ropelewski, Ryan Sablosky, Sravani Saripalli, Max Sibilla, Derek Simmel, Alan Simmons, Xu Tang, Joel Welling, Zhou Yuan, Martin Hemberg, Matt Ruffalo, Jonathan Silverstein, Philip Blood, Nils Gehlenborg (2025). HuBMAP Data Portal: A Resource for Multi-Modal Spatial and Single-Cell Data of Healthy Human Tissues _(under review)_. arXiv. [10.48550/arXiv.2511.05708](https://doi.org/10.48550/arXiv.2511.05708)"
+  image: turner-2025-hubmap
+  image_alt:
+    Schematic of data flow, with data submitter on left and data consumer on right. In between, arrows flow from 
+    data ingestion (data submission and data processing) to resources (metadata and data) to interfaces (browsing 
+    and search, visualizations, workspaces, download, and APIs). Data, Browsing and Search, Visualizations, and 
+    Workspaces are highlighted with color.
+  awards: []
+
+- title: "GQVis: A Dataset of Genomics Data Questions and Visualizations for Generative AI"
+  year: 2025
+  citation: "Skylar Sargent Walters, Arthea Valderrama, <b>Thomas C Smits</b>, David Kouřil, Huyen N Nguyen, Sehi L'Yi, Devin Lange, Nils Gehlenborg (2025). GQVis: A Dataset of Genomics Data Questions and Visualizations for Generative AI._IEEE 2025 1st Workshop on GenAI, Agents, and the Future of VIS (VIS x GenAI)_. [10.48550/arXiv.2510.13816](https://doi.org/10.48550/arXiv.2510.13816)"
+  image: walters-2025-gqvis
+  image_alt:
+    Examples of visualizations in the GQVis dataset include interactive chromoscope visualizations, epigenetic data, and
+    structural and functional data.
+  awards: []
+
+- title: "Ten Simple Rules for Making Biomedical Data Resources Accessible"
+  year: 2025
+  citation: "<b>Thomas C Smits</b>, Lawrence Weru, Sehi L'Yi, Nils Gehlenborg (2025). Ten Simple Rules for Making Biomedical Data Resources Accessible. _PLoS Computational Biology 21_(11): e1013657. [10.1371/journal.pcbi.1013657](https://doi.org/10.1371/journal.pcbi.1013657)"
+  image: smits-2025-ten-simple-rules
+  image_alt:
+    A visual overview of the ten rules for making biomedical data resources accessible. Three boxes labeled with assess,
+    construct, and consider are underneath each other. Each contains smaller boxes that represent individual rules, as
+    described in the main text. The six rules in the construct box are marked with one of the letters in the POUR
+    acronym.
+  awards: []
+
+- title: "A comprehensive evaluation of life sciences data resources reveals significant accessibility barriers"
+  year: 2025
+  citation: "Sehi L’Yi, Harrison G Zhang, Andrew P Mar <b>Thomas C Smits</b>, Lawrence Weru, Sofía Rojas, Alexander Lex, Nils Gehlenborg (2025). A comprehensive evaluation of life sciences data resources reveals significant accessibility barriers. _Scientific Reports_, 15, 23676. [10.1038/s41598-025-08731-7](https://doi.org/10.1038/s41598-025-08731-7)"
+  image: lyi-2025-analysis
+  image_alt:
+    Eight subfigures are showing bar charts and pie charts. Subpanel A shows the proportion of 
+    pages with the overall impact of issues between two resource types, i.e., data portals and journal websites. 
+    Subpanels B and C show the proportion of pages with critical issues and data-related issues, respectively, 
+    in pie charts. Subpanels D and E are bar charts showing the proportion of pages by WCAG levels and the difficulty 
+    of fixing in post-deployment. Subpanel F shows the top 10 accessibility issues. Subpanel G shows the proportion of 
+    pages with missing labels, and subpanel H shows the proportion of issues related to images and tables.
+  awards: []
+
+- title: "Multimodal Retrieval of Genomics Data Visualizations"
+  year: 2025
+  citation: "Huyen N Nguyen, Sehi L'Yi, <b>Thomas C Smits</b>, Shanghua Gao, Marinka Zitnik, Nils Gehlenborg (2025). Multimodal Retrieval of Genomics Data Visualizations _(under review)_. [10.31219/osf.io/zatw9_v1](https://doi.org/10.31219/osf.io/zatw9_v1)"
+  image: nguyen-2025-multimodal-retrieval
+  image_alt:
+    Schematic, top is an overview of the database system for retrieval and authoring genomics data visualizations, 
+    and bottom is a search interface (left) and authoring interface (right).
+  awards: []
+
+- title: "The State of Single-Cell Atlas Data Visualization in the Biological Literature"
+  year: 2025
+  citation: "Mark S Keller, Eric Moerth, <b>Thomas C Smits</b>, Simon Warchol, Qianwen Wang, Robert Krueger, Hanspeter Pfister, Nils Gehlenborg (2025). The State of Single-Cell Atlas Data Visualization in the Biological Literature. _IEEE computer graphics and applications, 45_(5), 18-34. [10.1109/MCG.2025.3583979](https://doi.org/10.1109/MCG.2025.3583979)"
+  image: keller-2025-star
+  image_alt: 
+    Repository of single cell atlas visualizations, with key filter terms on left and search results on the right. 
+    Each search result is a visualization from a paper with different codes, such as 'genomic' and 'dot plot' underneath.
+    The total number of papers is 45, the total number of subfigures is 1846, the total number of codes is 85.
+  awards: []
+
+- title: "AltGosling: Automatic Generation of Text Descriptions for Accessible Genomics Data Visualization, _Bioinformatics 40_(12), btae670"
+  year: 2024
+  citation: "<b>Thomas C Smits</b>, Sehi L’Yi, Andrew P Mar, Nils Gehlenborg (2024). AltGosling: Automatic Generation of Text Descriptions for Accessible Genomics Data Visualization, _Bioinformatics 40_(12), btae670. [10.1093/bioinformatics/btae670](https://doi.org/10.1093/bioinformatics/btae670)"
+  image: smits-2024-altgosling
+  image_alt:
+    Schematic with two sections. On the top left is a file icon with ‘Gosling Spec’. This points to the right section, labeled ‘Gosling.js’ with a 
+    matrix visualization, and the bottom section, labeled ‘AltGosling’ with three text schematics.
+  awards: ["Runner-Up Abstract Award at ISMB BioVis 2025"]
+
+- title: "Explaining Unfamiliar Genomics Data Visualizations to a Blind Individual through Transitions, _IEEE 2024 1st Workshop on Accessible Data Visualization (AccessViz)_, St Pete Beach, FL, USA, 2024, pp"
+  year: 2024
+  citation: "<b>Thomas C Smits</b>, Sehi L’Yi, Huyen N Nguyen, Andrew P Mar, Nils Gehlenborg (2024). Explaining Unfamiliar Genomics Data Visualizations to a Blind Individual through Transitions, _IEEE 2024 1st Workshop on Accessible Data Visualization (AccessViz)_, St Pete Beach, FL, USA, 2024, pp. 24-28, [10.1109/AccessViz64636.2024.00010](https://doi.org/10.1109/AccessViz64636.2024.00010)"
+  image: smits-2024-transitioning-charts
+  image_alt:
+    Two-by-two grid with sketches (top row) and schematics (bottom row) from a direct (left) and gradual (right) approach. The direct 
+    approach has a few black and colored vertical lines, the gradual one has colored letters (A, C, T, G) stacked on top, next to each other.
+  awards: []
+
+- title: "Using OpenKeyNav to Enhance the Keyboard-Accessibility of Web-based Data Visualization Tools (presented at _IEEE VIS 2024 AccessViz Workshop_)"
+  year: 2024
+  citation: "Lawrence Weru, Sehi L’Yi, <b>Thomas C Smits</b>, Nils Gehlenborg (2024). Using OpenKeyNav to Enhance the Keyboard-Accessibility of Web-based Data Visualization Tools (presented at _IEEE VIS 2024 AccessViz Workshop_). [10.31219/osf.io/3wjsa](https://doi.org/10.31219/osf.io/3wjsa)"
+  image: weru-2024-keyboard
+  image_alt:
+    Three cropped screenshots of Voyager, labelled A through C, with arrows pointing from A to B and from B to C. 
+    A shows a two-column layout, with a list of data field 'pills' on the left, and a list of empty data shelves (encodings, marks, 
+    facets and more) on the right. The data field pills on the left column are all given pink labels (unique alphabetic letters 
+    for each) and surrounded with a pink outline. B shows the same view but cropped to part of the layout. Here, only one of the 
+    pills in the left column is labeled, this time with a small dot instead of a letter. The right column's empty shelves are 
+    highlighted green with the words 'drop a field here' and have the same pink outlines with alphabetic labels. C shows the 
+    same view but cropped. Here, there are no pink highlights. Instead, on the encoding field called 'x', there is now a filled 
+    data field called 'Major_Genre'.
+  awards: []
+
+- title: "Advances and prospects for the Human BioMolecular Atlas Program (HuBMAP)"
+  year: 2023
+  citation: "Sanjay Jain, Liming Pei, Jeffrey M Spraggins, et al. Advances and prospects for the Human BioMolecular Atlas Program (HuBMAP). _Nature Cell Biology 25_, 1089–1100 (2023). [10.1038/s41556-023-01194-w](https://doi.org/10.1038/s41556-023-01194-w)"
+  image: jain-2023-hubmap
+  image_alt:
+    Schematic overview of modalities and assays in the HuBMAP consortium. It ranges the scale of organ to subcellular (x-axis),
+    and has molecular coverage of bulk, spatial proteomics and transcriptomics, imaging, single-cell, histology, and antibody.
+    The captured analyte (gene, protein, etc.) is shown with color.
+  awards: []
+
+- title: "Digital Accessibility of Life Science Data Portals and Journal Websites"
+  year: 2023
+  citation: "Sehi L’Yi, <b>Thomas C Smits</b>, Alexander Lex, Nils Gehlenborg (2023). _Digital Accessibility of Life Science Data Portals and Journal Websites._ OSF Preprints. [10.31219/osf.io/5v98j](https://doi.org/10.31219/osf.io/5v98j)"
+  image: null
+  image_alt: null
+  awards: []
+
+- title: "Somatic Changes Prior to the Development of Hyperdiploidy Expose Mutation Accumulation Rate and Activated Processes in Multiple Myeloma"
+  year: 2022
+  citation: "<b>Thomas Smits</b>, Anil Aktas Samur, Romain Lannes, Mariateresa Fulciniti, Masood Shammas, Jill Corre, Kenneth Anderson, Giovanni Parmigiani, Hervé Avet-Loiseau, Nikhil Munshi, Mehmet Samur (2022, December). _Somatic Changes Prior to the Development of Hyperdiploidy Expose Mutation Accumulation Rate and Activated Processes in Multiple Myeloma._ 64th ASH Annual Meeting and Exposition, New Orleans, LA. [10.1182/blood-2022-168837](https://doi.org/10.1182/blood-2022-168837)"
+  image: smits-2022-hmm-exposures
+  image_alt: Two boxplots showing exposure for mutational signatures in pre and post hyperdyploid and subclonal groups.
+  awards: ["American Society of Hematology Abstract Achievement Award"]
+
+- title: "PHF19 Inhibits Multiple Myeloma Cell Response to Immunotherapy Via Promoting Immunosuppressive Microenvironment"
+  year: 2022
+  citation: "Tengteng Yu, Mu Hao, Hailin Chen, Kenneth Wen, Tingjian Wang, <b>Thomas Smits</b>, Mehmet Samur, Eugenio Morelli, Lijie Xing, Liang Lin, Jun Qi, Gang An, Nikhil Munshi, Yu-Tzu Tai, Lugui Qiu, Kenneth Anderson (2022, December). _PHF19 Inhibits Multiple Myeloma Cell Response to Immunotherapy Via Promoting Immunosuppressive Microenvironment._ 64th ASH Annual Meeting and Exposition, New Orleans, LA. [10.1182/blood-2022-159137](https://doi.org/10.1182/blood-2022-159137)"
+  image: null
+  image_alt: null
+  awards: ["American Society of Hematology Abstract Achievement Award"]
+
+- title: "OAB-017: Mutations accumulated before and after hyperdiploidy reveal timing and impact of chromosomal gains on multiple myeloma"
+  year: 2022
+  citation: "<b>Thomas C Smits</b>, Anil Aktas Samur, Romain Lannes, Mariateresa Fulciniti, Masood Shammas, Jill Corre, Kenneth Anderson, Giovanni Parmigiani, Hervé Avet-Loiseau, Nikhil Munshi, Mehmet Samur (2022, August). _OAB-017: Mutations accumulated before and after hyperdiploidy reveal timing and impact of chromosomal gains on multiple myeloma._ 19th International Myeloma Society Annual Meeting, Los Angeles, CA. [10.1016/S2152-2650(22)00290-7](https://doi.org/10.1016/S2152-2650(22)00290-7)"
+  image: smits-2022-hmm-pseudotime
+  image_alt: Pseudotime sketch of events around hyperdiploidy with varying activity based on mutational signatures.
+  awards: ["International Myeloma Society Young Investigator Award"]
+
+- title: "OAB-031: PHF19 promotes multiple myeloma cell resistant to daratumumab/isatuximab via upregulation in immunosuppressive microenvironment and reduced CD38 target expression"
+  year: 2022
+  citation: "Tengteng Yu, Hailin Chen, Kenneth Wen, Tingjian Wang, Phillip Hsieh, <b>Thomas C Smits</b>, Mehmet Samur, Lijie Xing, Liang Lin, Mu Hao, Lugui Qiu, Yu-Tzu Tai, Kenneth Anderson (2022, August). _OAB-031: PHF19 promotes multiple myeloma cell resistant to daratumumab/isatuximab via upregulation in immunosuppressive microenvironment and reduced CD38 target expression._ 19th International Myeloma Society Annual Meeting, Los Angeles, CA. [10.1016/S2152-2650(22)00304-4](https://doi.org/10.1016/S2152-2650(22)00304-4)"
+  image: null
+  image_alt: null
+  awards: []
+
+- title: "OAB-013: Universal loss of BCL7A allows release of its binding partner IRF4 inducing its transcriptional activity promoting MM cell growth"
+  year: 2022
+  citation: "Chandraditya Chakraborty, Srikanth Talluri, Eugenio Morelli, Sanika Derebail, Yan Xu, Charles Epstein, <b>Thomas Smits</b>, Moritz Binder, Kenneth Anderson, Masood Shammas, Mehmet Samur, Mariateresa Fulciniti, Nikhil Munshi (2022, August). _OAB-013: Universal loss of BCL7A allows release of its binding partner IRF4 inducing its transcriptional activity promoting MM cell growth._ 19th International Myeloma Society Annual Meeting, Los Angeles, CA. [10.1016/S2152-2650(22)00286-5](https://doi.org/10.1016/S2152-2650(22)00286-5)"
+  image: null
+  image_alt: null
+  awards: []
+
+- title: "Accessibility in Grammar-Based Genomics Visualization Language Gosling through Automatic Generation of Text Descriptions"
+  year: null
+  citation: "<b>Thomas C Smits</b>, Sehi L’Yi, Nils Gehlenborg (2023, March). _Accessibility in Grammar-Based Genomics Visualization Language Gosling through Automatic Generation of Text Descriptions_. 9th Annual HMS Master’s Programs Research Symposium, Boston, MA."
+  image: null
+  image_alt: null
+  awards: []
+
+- title: "Workspaces in Portal: Data Linking and Templates in Jupyter Lab"
+  year: null
+  citation: "<b>Thomas Smits</b>, Nikolay Akhmetov, Lisa Choy, John Conroy, Mark Keller, Tiffany Liaw, Juan Puerto, Samson Toor, Morgan L. Turner, Philip Blood, Nils Gehlenborg (2023, December). _Workspaces in Portal: Data Linking and Templates in Jupyter Lab._ HuBMAP. HuBMAP Demo Day, remote."
+  image: null
+  image_alt: null
+  awards: []
+
+- title: "Workspaces in Portal (in progress): templates allow for easy cell type composition exploration"
+  year: null
+  citation: "<b>Thomas Smits</b>, HuBMAP Harvard HIVE-TC, HiDIVE Lab (2023, May). _Workspaces in Portal (in progress): templates allow for easy cell type composition exploration._ HuBMAP Annual Meeting, Nashville, TN."
+  image: null
+  image_alt: null
+  awards: []

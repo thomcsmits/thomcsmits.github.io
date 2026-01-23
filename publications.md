@@ -6,48 +6,70 @@ order: 0
 ---
 
 ## Publications
-### 2025
-- <b>Thomas C Smits</b>, Nikolay Akhmetov, Tiffany S Liaw, Mark S Keller, Eric Moerth, Nils Gehlenborg (2025). _scellop_: A Scalable Redesign of Cell Population Plots for Single-Cell Data _(under review)_. arXiv. [10.48550/arXiv.2510.09554](https://doi.org/10.48550/arXiv.2510.09554)
+{% assign pubs = site.data.publications %} 
+{% assign pubs_groups_year = pubs | group_by: "year" %}
+{% assign current_year = "" %}
 
-- Morgan L Turner, <b>Thomas C Smits</b>, Tiffany S Liaw, Brendan Honick, Bill Shirey, Lisa Choy, Nikolay Akhmetov, Shaokun An, David Betancur, Dominic Bordelon, Karl Burke, Ivan Cao-Berg, John Conroy, Chris Csonka, Penny Cuda, Sean Donahue, Stephen Fisher, Derek Furst, Ed Hanna, Josef Hardi, Tabassum Kakar, Mark S Keller, Xiang Li, Yan Ma, Allison McWilliams, Austen Money, Richard Morgan, Eric Moerth, Juan Muerto, Mark A Musen, Emily Nic, Martin J O'Connor, Gesina Phillips, Alex Ropelewski, Ryan Sablosky, Sravani Saripalli, Max Sibilla, Derek Simmel, Alan Simmons, Xu Tang, Joel Welling, Zhou Yuan, Martin Hemberg, Matt Ruffalo, Jonathan Silverstein, Philip Blood, Nils Gehlenborg (2025). HuBMAP Data Portal: A Resource for Multi-Modal Spatial and Single-Cell Data of Healthy Human Tissues _(under review)_. arXiv. [10.48550/arXiv.2511.05708](https://doi.org/10.48550/arXiv.2511.05708)
-
-- Skylar Sargent Walters, Arthea Valderrama, <b>Thomas C Smits</b>, David Kouřil, Huyen N Nguyen, Sehi L'Yi, Devin Lange, Nils Gehlenborg (2025). GQVis: A Dataset of Genomics Data Questions and Visualizations for Generative AI._IEEE 2025 1st Workshop on GenAI, Agents, and the Future of VIS (VIS x GenAI)_. [10.48550/arXiv.2510.13816](https://doi.org/10.48550/arXiv.2510.13816)
-
-- <b>Thomas C Smits</b>, Lawrence Weru, Sehi L'Yi, Nils Gehlenborg (2025). Ten Simple Rules for Making Biomedical Data Resources Accessible. _PLoS Computational Biology 21_(11): e1013657. [10.1371/journal.pcbi.1013657](https://doi.org/10.1371/journal.pcbi.1013657)
-
-- Sehi L’Yi, Harrison G Zhang, Andrew P Mar <b>Thomas C Smits</b>, Lawrence Weru, Sofía Rojas, Alexander Lex, Nils Gehlenborg (2025). A comprehensive evaluation of life sciences data resources reveals significant accessibility barriers. _Scientific Reports_, 15, 23676. [10.1038/s41598-025-08731-7](https://doi.org/10.1038/s41598-025-08731-7)
-
-- Huyen N Nguyen, Sehi L'Yi, <b>Thomas C Smits</b>, Shanghua Gao, Marinka Zitnik, Nils Gehlenborg (2025). Multimodal Retrieval of Genomics Data Visualizations _(under review)_. [10.31219/osf.io/zatw9_v1](https://doi.org/10.31219/osf.io/zatw9_v1)
-
-- Mark S Keller, Eric Moerth, <b>Thomas C Smits</b>, Simon Warchol, Qianwen Wang, Robert Krueger, Hanspeter Pfister, Nils Gehlenborg (2025). The State of Single-Cell Atlas Data Visualization in the Biological Literature. _IEEE computer graphics and applications, 45_(5), 18-34. [10.1109/MCG.2025.3583979](https://doi.org/10.1109/MCG.2025.3583979)
-
-### 2024
-- <b>Thomas C Smits</b>, Sehi L’Yi, Andrew P Mar, Nils Gehlenborg (2024). AltGosling: Automatic Generation of Text Descriptions for Accessible Genomics Data Visualization, _Bioinformatics 40_(12), btae670. [10.1093/bioinformatics/btae670](https://doi.org/10.1093/bioinformatics/btae670) 
-
-- <b>Thomas C Smits</b>, Sehi L’Yi, Huyen N Nguyen, Andrew P Mar, Nils Gehlenborg (2024). Explaining Unfamiliar Genomics Data Visualizations to a Blind Individual through Transitions, _IEEE 2024 1st Workshop on Accessible Data Visualization (AccessViz)_, St Pete Beach, FL, USA, 2024, pp. 24-28, [10.1109/AccessViz64636.2024.00010](https://doi.org/10.1109/AccessViz64636.2024.00010)
-
-- Lawrence Weru, Sehi L’Yi, <b>Thomas C Smits</b>, Nils Gehlenborg (2024). Using OpenKeyNav to Enhance the Keyboard-Accessibility of Web-based Data Visualization Tools (presented at _IEEE VIS 2024 AccessViz Workshop_). [10.31219/osf.io/3wjsa](https://doi.org/10.31219/osf.io/3wjsa)
-
-### 2023
-- Sanjay Jain, Liming Pei, Jeffrey M Spraggins, et al. Advances and prospects for the Human BioMolecular Atlas Program (HuBMAP). _Nature Cell Biology 25_, 1089–1100 (2023). [10.1038/s41556-023-01194-w](https://doi.org/10.1038/s41556-023-01194-w)
-
-- Sehi L’Yi, <b>Thomas C Smits</b>, Alexander Lex, Nils Gehlenborg (2023). _Digital Accessibility of Life Science Data Portals and Journal Websites._ OSF Preprints. [10.31219/osf.io/5v98j](https://doi.org/10.31219/osf.io/5v98j)
-
-### 2022
-- <b>Thomas Smits</b>, Anil Aktas Samur, Romain Lannes, Mariateresa Fulciniti, Masood Shammas, Jill Corre, Kenneth Anderson, Giovanni Parmigiani, Hervé Avet-Loiseau, Nikhil Munshi, Mehmet Samur (2022, December). _Somatic Changes Prior to the Development of Hyperdiploidy Expose Mutation Accumulation Rate and Activated Processes in Multiple Myeloma._ 64th ASH Annual Meeting and Exposition, New Orleans, LA. [10.1182/blood-2022-168837](https://doi.org/10.1182/blood-2022-168837)
-
-- Tengteng Yu, Mu Hao, Hailin Chen, Kenneth Wen, Tingjian Wang, <b>Thomas Smits</b>, Mehmet Samur, Eugenio Morelli, Lijie Xing, Liang Lin, Jun Qi, Gang An, Nikhil Munshi, Yu-Tzu Tai, Lugui Qiu, Kenneth Anderson (2022, December). _PHF19 Inhibits Multiple Myeloma Cell Response to Immunotherapy Via Promoting Immunosuppressive Microenvironment._ 64th ASH Annual Meeting and Exposition, New Orleans, LA. [10.1182/blood-2022-159137](https://doi.org/10.1182/blood-2022-159137) 
-
-- <b>Thomas C Smits</b>, Anil Aktas Samur, Romain Lannes, Mariateresa Fulciniti, Masood Shammas, Jill Corre, Kenneth Anderson, Giovanni Parmigiani, Hervé Avet-Loiseau, Nikhil Munshi, Mehmet Samur (2022, August). _OAB-017: Mutations accumulated before and after hyperdiploidy reveal timing and impact of chromosomal gains on multiple myeloma._ 19th International Myeloma Society Annual Meeting, Los Angeles, CA. [10.1016/S2152-2650(22)00290-7](https://doi.org/10.1016/S2152-2650(22)00290-7)
-
-- Tengteng Yu, Hailin Chen, Kenneth Wen, Tingjian Wang, Phillip Hsieh, <b>Thomas C Smits</b>, Mehmet Samur, Lijie Xing, Liang Lin, Mu Hao, Lugui Qiu, Yu-Tzu Tai, Kenneth Anderson (2022, August). _OAB-031: PHF19 promotes multiple myeloma cell resistant to daratumumab/isatuximab via upregulation in immunosuppressive microenvironment and reduced CD38 target expression._ 19th International Myeloma Society Annual Meeting, Los Angeles, CA. [10.1016/S2152-2650(22)00304-4](https://doi.org/10.1016/S2152-2650(22)00304-4)
-
-- Chandraditya Chakraborty, Srikanth Talluri, Eugenio Morelli, Sanika Derebail, Yan Xu, Charles Epstein, <b>Thomas Smits</b>, Moritz Binder, Kenneth Anderson, Masood Shammas, Mehmet Samur, Mariateresa Fulciniti, Nikhil Munshi (2022, August). _OAB-013: Universal loss of BCL7A allows release of its binding partner IRF4 inducing its transcriptional activity promoting MM cell growth._ 19th International Myeloma Society Annual Meeting, Los Angeles, CA. [10.1016/S2152-2650(22)00286-5](https://doi.org/10.1016/S2152-2650(22)00286-5)
+{% for year_group in pubs_groups_year %}
+  <h3>{{ year_group.name | default: "Additional" }}</h3>
+  <ul>
+    {% for pub in year_group.items %}
+      <li class="pub-item">
+        <div class="pub-container">
+          <div class="pub-text">
+            {{ pub.citation | markdownify }}
+            {% if pub.awards %}
+              {% for award in pub.awards %}
+                <p>
+                  <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="8" cy="8" r="8" fill="gold"></circle>
+                  </svg>
+                  {{ award }}
+                </p>
+              {% endfor %}
+            {% endif %}
+          </div>
+          {% if pub.image %}
+            <div class="pub-image">
+              <img src="/assets/images/publications/{{ pub.image }}.png" 
+                  alt="{{ pub['image-alt'] | default: pub.title }}">
+            </div>
+          {% endif %}
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
 
 
-### Additional
-- <b>Thomas C Smits</b>, Sehi L’Yi, Nils Gehlenborg (2023, March). _Accessibility in Grammar-Based Genomics Visualization Language Gosling through Automatic Generation of Text Descriptions_. 9th Annual HMS Master’s Programs Research Symposium, Boston, MA.
+<style>
+.pub-container {
+  display: grid;
+  grid-template-columns: 1fr 150px;
+  gap: 1rem;
+  align-items: start;
+}
 
-- <b>Thomas Smits</b>, Nikolay Akhmetov, Lisa Choy, John Conroy, Mark Keller, Tiffany Liaw, Juan Puerto, Samson Toor, Morgan L. Turner, Philip Blood, Nils Gehlenborg (2023, December). _Workspaces in Portal: Data Linking and Templates in Jupyter Lab._ HuBMAP. HuBMAP Demo Day, remote.
+.pub-container.right {
+  grid-template-columns: 150 1fr;
+}
 
-- <b>Thomas Smits</b>, HuBMAP Harvard HIVE-TC, HiDIVE Lab (2023, May). _Workspaces in Portal (in progress): templates allow for easy cell type composition exploration._ HuBMAP Annual Meeting, Nashville, TN.
+.pub-image img {
+  width: 100%;
+  height: 100px;
+  /* height: auto; */
+  /* max-height: 100px; */
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.2);
+  object-fit: contain;
+}
+
+.pub-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100px;
+  margin-bottom: 25px;
+}
+</style>
