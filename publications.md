@@ -7,12 +7,11 @@ order: 0
 
 ## Publications
 ### 2025
-- <b>Thomas C Smits</b>, Nikolay Akhmetov, Tiffany S. Liaw, Mark S. Keller, Eric Moerth, Nils Gehlenborg (2025). _scellop_: A Scalable Redesign of Cell Population Plots for Single-Cell Data _(under review)_. arXiv. [10.48550/arXiv.2510.09554](https://doi.org/10.48550/arXiv.2510.09554)
+- <b>Thomas C Smits</b>, Nikolay Akhmetov, Tiffany S Liaw, Mark S Keller, Eric Moerth, Nils Gehlenborg (2025). _scellop_: A Scalable Redesign of Cell Population Plots for Single-Cell Data _(under review)_. arXiv. [10.48550/arXiv.2510.09554](https://doi.org/10.48550/arXiv.2510.09554)
 
-- Morgan L. Turner, <b>Thomas C. Smits</b>, Tiffany S. Liaw, Brendan Honick, Bill Shirey, Lisa Choy, Nikolay Akhmetov, Shaokun An, David Betancur, Dominic Bordelon, Karl Burke, Ivan Cao-Berg, John Conroy, Chris Csonka, Penny Cuda, Sean Donahue, Stephen Fisher, Derek Furst, Ed Hanna, Josef Hardi, Tabassum Kakar, Mark S. Keller, Xiang Li, Yan Ma, Allison McWilliams, Austen Money, Richard Morgan, Eric Moerth, Juan Muerto, Mark A. Musen, Emily Nic, Martin J. O'Connor, Gesina Phillips, Alex Ropelewski, Ryan Sablosky, Sravani Saripalli, Max Sibilla, Derek Simmel, Alan Simmons, Xu Tang, Joel Welling, Zhou Yuan, Martin Hemberg, Matt Ruffalo, Jonathan Silverstein, Philip Blood, Nils Gehlenborg. HuBMAP Data Portal: A Resource for Multi-Modal Spatial and Single-Cell Data of Healthy Human Tissues _(under review)_. arXiv. [10.48550/arXiv.2511.05708](https://doi.org/10.48550/arXiv.2511.05708)
+- Morgan L Turner, <b>Thomas C Smits</b>, Tiffany S Liaw, Brendan Honick, Bill Shirey, Lisa Choy, Nikolay Akhmetov, Shaokun An, David Betancur, Dominic Bordelon, Karl Burke, Ivan Cao-Berg, John Conroy, Chris Csonka, Penny Cuda, Sean Donahue, Stephen Fisher, Derek Furst, Ed Hanna, Josef Hardi, Tabassum Kakar, Mark S Keller, Xiang Li, Yan Ma, Allison McWilliams, Austen Money, Richard Morgan, Eric Moerth, Juan Muerto, Mark A Musen, Emily Nic, Martin J O'Connor, Gesina Phillips, Alex Ropelewski, Ryan Sablosky, Sravani Saripalli, Max Sibilla, Derek Simmel, Alan Simmons, Xu Tang, Joel Welling, Zhou Yuan, Martin Hemberg, Matt Ruffalo, Jonathan Silverstein, Philip Blood, Nils Gehlenborg (2025). HuBMAP Data Portal: A Resource for Multi-Modal Spatial and Single-Cell Data of Healthy Human Tissues _(under review)_. arXiv. [10.48550/arXiv.2511.05708](https://doi.org/10.48550/arXiv.2511.05708)
 
-- Skylar Sargent Walters, Arthea Valderrama, <b>Thomas C Smits</b>, David Kouřil, Huyen N. Nguyen, Sehi L'Yi, Devin Lange, Nils Gehlenborg (2025). GQVis: A Dataset of Genomics Data Questions and Visualizations for Generative AI._IEEE 2025 1st Workshop on GenAI, Agents, and the Future of VIS (VIS x GenAI)_. [10.48550/arXiv.2510.13816](
-https://doi.org/10.48550/arXiv.2510.13816)
+- Skylar Sargent Walters, Arthea Valderrama, <b>Thomas C Smits</b>, David Kouřil, Huyen N Nguyen, Sehi L'Yi, Devin Lange, Nils Gehlenborg (2025). GQVis: A Dataset of Genomics Data Questions and Visualizations for Generative AI._IEEE 2025 1st Workshop on GenAI, Agents, and the Future of VIS (VIS x GenAI)_. [10.48550/arXiv.2510.13816](https://doi.org/10.48550/arXiv.2510.13816)
 
 - <b>Thomas C Smits</b>, Lawrence Weru, Sehi L'Yi, Nils Gehlenborg (2025). Ten Simple Rules for Making Biomedical Data Resources Accessible. _PLoS Computational Biology 21_(11): e1013657. [10.1371/journal.pcbi.1013657](https://doi.org/10.1371/journal.pcbi.1013657)
 
@@ -30,7 +29,7 @@ https://doi.org/10.48550/arXiv.2510.13816)
 - Lawrence Weru, Sehi L’Yi, <b>Thomas C Smits</b>, Nils Gehlenborg (2024). Using OpenKeyNav to Enhance the Keyboard-Accessibility of Web-based Data Visualization Tools (presented at _IEEE VIS 2024 AccessViz Workshop_). [10.31219/osf.io/3wjsa](https://doi.org/10.31219/osf.io/3wjsa)
 
 ### 2023
-- Sanjay Jain, Liming Pei, Jeffrey M. Spraggins, et al. Advances and prospects for the Human BioMolecular Atlas Program (HuBMAP). _Nature Cell Biology 25_, 1089–1100 (2023). [10.1038/s41556-023-01194-w](https://doi.org/10.1038/s41556-023-01194-w)
+- Sanjay Jain, Liming Pei, Jeffrey M Spraggins, et al. Advances and prospects for the Human BioMolecular Atlas Program (HuBMAP). _Nature Cell Biology 25_, 1089–1100 (2023). [10.1038/s41556-023-01194-w](https://doi.org/10.1038/s41556-023-01194-w)
 
 - Sehi L’Yi, <b>Thomas C Smits</b>, Alexander Lex, Nils Gehlenborg (2023). _Digital Accessibility of Life Science Data Portals and Journal Websites._ OSF Preprints. [10.31219/osf.io/5v98j](https://doi.org/10.31219/osf.io/5v98j)
 
