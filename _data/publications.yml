@@ -216,7 +216,7 @@
     The total number of papers is 45, the total number of subfigures is 1846, the total number of codes is 85.
   awards: []
 
-- title: "AltGosling: Automatic Generation of Text Descriptions for Accessible Genomics Data Visualization
+- title: "AltGosling: Automatic Generation of Text Descriptions for Accessible Genomics Data Visualization"
   year: 2024
   authors:
     - Thomas C Smits
@@ -233,7 +233,7 @@
   github: https://github.com/gosling-lang/altgosling
   awards: ["Runner-Up Abstract Award at ISMB BioVis 2025"]
 
-- title: "Explaining Unfamiliar Genomics Data Visualizations to a Blind Individual through Transitions
+- title: "Explaining Unfamiliar Genomics Data Visualizations to a Blind Individual through Transitions"
   year: 2024
   authors:
     - Thomas C Smits
@@ -250,7 +250,7 @@
     approach has a few black and colored vertical lines, the gradual one has colored letters (A, C, T, G) stacked on top, next to each other.
   awards: []
 
-- title: "Using OpenKeyNav to Enhance the Keyboard-Accessibility of Web-based Data Visualization Tools
+- title: "Using OpenKeyNav to Enhance the Keyboard-Accessibility of Web-based Data Visualization Tools"
   year: 2024
   authors:
     - Lawrence Weru
