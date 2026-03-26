@@ -1,5 +1,5 @@
 - title: "_scellop_: A Scalable Redesign of Cell Population Plots for Single-Cell Data"
-  year: 2025
+  year: 2026
   authors:
     - Thomas C Smits
     - Nikolay Akhmetov
@@ -7,19 +7,20 @@
     - Mark S Keller
     - Eric Moerth
     - Nils Gehlenborg
-  venue: arXiv
-  citation: "Thomas C Smits, Nikolay Akhmetov, Tiffany S Liaw, Mark S Keller, Eric Moerth, Nils Gehlenborg (2025). _scellop_: A Scalable Redesign of Cell Population Plots for Single-Cell Data _(under review)_. arXiv. [10.48550/arXiv.2510.09554](https://doi.org/10.48550/arXiv.2510.09554)"
-  url: https://arxiv.org/abs/2510.09554
+  venue: Bioinformatics Advances, vbag083
+  citation: "Thomas C Smits, Nikolay Akhmetov, Tiffany S Liaw, Mark S Keller, Eric Moerth, Nils Gehlenborg (2026). _scellop_: A Scalable Redesign of Cell Population Plots for Single-Cell Data. Bioinformatics Advances, vbag083. [https://doi.org/10.1093/bioadv/vbag083](https://doi.org/10.1093/bioadv/vbag083)"
+  url: https://doi.org/10.1093/bioadv/vbag083
   bibtex: | 
-    @misc{smits2025scellop,
-      title={scellop: A Scalable Redesign of Cell Population Plots for Single-Cell Data}, 
-      author={Thomas C. Smits and Nikolay Akhmetov and Tiffany S. Liaw and Mark S. Keller and Eric Mörth and Nils Gehlenborg},
-      year={2025},
-      eprint={2510.09554},
-      archivePrefix={arXiv},
-      primaryClass={cs.HC},
-      url={https://arxiv.org/abs/2510.09554},
-      doi={10.48550/arXiv.2510.09554},
+    @article{smits2026scellop,
+      author = {Smits, Thomas C and Akhmetov, Nikolay and Liaw, Tiffany S and Keller, Mark S and Mörth, Eric and Gehlenborg, Nils},
+      title = {scellop: A Scalable Redesign of Cell Population Plots for Single-Cell Data},
+      journal = {Bioinformatics Advances},
+      pages = {vbag083},
+      year = {2026},
+      month = {03},
+      issn = {2635-0041},
+      doi = {10.1093/bioadv/vbag083},
+      url = {https://doi.org/10.1093/bioadv/vbag083},
     }
   image: smits-2025-scellop
   image_alt:
