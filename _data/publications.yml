@@ -115,7 +115,7 @@
     - Nils Gehlenborg
   venue: IEEE 2025 1st Workshop on GenAI, Agents, and the Future of VIS (VIS x GenAI)
   url: https://arxiv.org/abs/2510.13816
-  citation: "Skylar Sargent Walters, Arthea Valderrama, Thomas C Smits, David Kouřil, Huyen N Nguyen, Sehi L'Yi, Devin Lange, Nils Gehlenborg (2025). GQVis: A Dataset of Genomics Data Questions and Visualizations for Generative AI._IEEE 2025 1st Workshop on GenAI, Agents, and the Future of VIS (VIS x GenAI)_. [10.48550/arXiv.2510.13816](https://doi.org/10.48550/arXiv.2510.13816)"
+  citation: "Skylar Sargent Walters, Arthea Valderrama, Thomas C Smits, David Kouřil, Huyen N Nguyen, Sehi L'Yi, Devin Lange, Nils Gehlenborg (2025). GQVis: A Dataset of Genomics Data Questions and Visualizations for Generative AI. _IEEE 2025 1st Workshop on GenAI, Agents, and the Future of VIS (VIS x GenAI)_. [10.48550/arXiv.2510.13816](https://doi.org/10.48550/arXiv.2510.13816)"
   bibtex: |
     @inproceedings{walters2025gqvis,
       title={GQVis: A Dataset of Genomics Data Questions and Visualizations for Generative AI},
@@ -177,7 +177,7 @@
     - Nils Gehlenborg
   venue: Scientific Reports, 15, 23676
   url: https://doi.org/10.1038/s41598-025-08731-7
-  citation: "Sehi L’Yi, Harrison G Zhang, Andrew P Mar Thomas C Smits, Lawrence Weru, Sofía Rojas, Alexander Lex, Nils Gehlenborg (2025). A comprehensive evaluation of life sciences data resources reveals significant accessibility barriers. _Scientific Reports_, 15, 23676. [10.1038/s41598-025-08731-7](https://doi.org/10.1038/s41598-025-08731-7)"
+  citation: "Sehi L’Yi, Harrison G Zhang, Andrew P Mar, Thomas C Smits, Lawrence Weru, Sofía Rojas, Alexander Lex, Nils Gehlenborg (2025). A comprehensive evaluation of life sciences data resources reveals significant accessibility barriers. _Scientific Reports_, 15, 23676. [10.1038/s41598-025-08731-7](https://doi.org/10.1038/s41598-025-08731-7)"
   bibtex: |
     @article{lyi2025accessibilityanalysis,
       title = {A Comprehensive Evaluation of Life Sciences Data Resources Reveals Significant Accessibility Barriers},
